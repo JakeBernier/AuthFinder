@@ -1,0 +1,11 @@
+r1ddl3r
+
+v0.0.1
+
+7-14-14
+
+Silly script to parse a webpage and locate the word "login" in scripts. Useful if you are locating login prompts on 100's of sites.
+works for http & https
+supply URL in URLs.txt and return for each new URL
+meh
+
